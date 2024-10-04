@@ -13,12 +13,12 @@
         <p>Open command prompt and go to the directory where the python file and image folder is placed.</p>
       </li>
       <li>
-        <p>Then use command " JPG_to_PNG_converter.py 'your folder anme' 'your output folder name' ". Press enter.</p>
+        <p>Then use command " JPG_to_PNG_converter.py 'your_folder_name' 'your_output_folder_name' ". Press enter.</p>
       </li>
     </ol>
   </li>
   <li>
-    <p>You will found the output folder with the converted format. If you want to customize it to different format, just open the file and change the format name at line 23: instead of 'png' write any format that you wish fo.</p>
+    <p>You will found the output folder with the converted format. If you want to customize it to different format, just open the file and change the format name at line 23: instead of 'png' write any format that you wish for.</p>
   </li>
 </ul>
 <p><strong>Thanks for visiting this repository.</strong></p>
